@@ -1,0 +1,43 @@
+#define SHOW_TIME 1000
+#define BAT_MIN_VOL 3.5
+   
+#define A_hex 0x77
+#define B_hex 0x7C
+#define b_hex 0x7C
+#define C_hex 0x39
+#define D_hex 0x5E
+#define E_hex 0x79
+#define F_hex 0x71
+#define G_hex 0x3D
+#define H_hex 0x76
+#define h_hex 0x74
+#define I_hex 0x30
+#define J_hex 0x1E
+#define L_hex 0x38
+#define n_hex 0x54
+#define O_hex 0x3F
+#define o_hex 0x5C
+#define P_hex 0x73
+#define r_hex 0x50
+#define S_hex 0x6D
+#define T_hex 0x78
+#define U_hex 0x3E
+#define u_hex 0x1C
+#define y_hex 0x6E
+#define DEG_hex 0x63
+#define EXT_hex 0x10
+#define ERR_hex 0x80
+
+#define N1_hex 0x06
+#define N2_hex 0x5B
+#define N3_hex 0x4F
+#define N4_hex 0x66
+#define N5_hex 0x6D
+#define N6_hex 0x7D
+#define N7_hex 0x07
+#define N8_hex 0x7F
+#define N9_hex 0x6F
+#define N0_hex 0x3F
+#define EQ_hex 0x40
+#define NON_hex 0x00
+ 
